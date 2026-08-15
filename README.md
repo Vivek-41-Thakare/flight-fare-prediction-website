@@ -75,39 +75,23 @@ The frontend is designed using responsive styling so that the main application i
 
 ---
 
-## 🖥️ Screenshots
+## 📸 Screenshots
 
 ### 🏠 Home Page
 
-The landing page introduces FlightFare and highlights the application's main capabilities.
+![Home Page](./screenshots/home.png)
 
-![FlightFare Home Page](screenshots/home.png)
+### ✈️ Flight Search
 
----
+![Flight Search](./screenshots/search-form.png)
 
-### 🔎 Flight Search
+### 💡 Features
 
-Users can enter their source, destination, travel date, and optional airline.
+![Features](./screenshots/features.png)
 
-![Flight Search Form](screenshots/flight-search.png)
+### 📊 Prediction Results
 
----
-
-### 💡 Features Section
-
-The features section highlights historical-data analysis, market information, and prediction confidence.
-
-![FlightFare Features](screenshots/features.png)
-
----
-
-### 📈 Prediction Results
-
-The prediction dashboard displays the current average price, predicted travel-date price, price change, confidence score, and price trend chart.
-
-![Flight Price Prediction Results](screenshots/prediction-results.png)
-
----
+![Prediction Results](./screenshots/prediction-results.png)
 
 ## 🔄 How It Works
 
