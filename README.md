@@ -79,20 +79,27 @@ The frontend is designed using responsive styling so that the main application i
 
 ### 🏠 Home Page
 
-![Home Page](./screenshots/home.png)
+<p align="center">
+  <img src="./screenshots/home.png" alt="FlightFare Home Page" width="900">
+</p>
 
 ### ✈️ Flight Search
 
-![Flight Search](./screenshots/search-form.png)
+<p align="center">
+  <img src="./screenshots/search-form.png" alt="Flight Search Form" width="900">
+</p>
 
 ### 💡 Features
 
-![Features](./screenshots/features.png)
+<p align="center">
+  <img src="./screenshots/features.png" alt="FlightFare Features" width="900">
+</p>
 
 ### 📊 Prediction Results
 
-![Prediction Results](./screenshots/prediction-results.png)
-
+<p align="center">
+  <img src="./screenshots/prediction-results.png" alt="Prediction Results" width="900">
+</p>
 ## 🔄 How It Works
 
 ```text
