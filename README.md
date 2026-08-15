@@ -75,31 +75,6 @@ The frontend is designed using responsive styling so that the main application i
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-<p align="center">
-  <img src="./screenshots/home.png" alt="FlightFare Home Page" width="900">
-</p>
-
-### ✈️ Flight Search
-
-<p align="center">
-  <img src="./screenshots/search-form.png" alt="Flight Search Form" width="900">
-</p>
-
-### 💡 Features
-
-<p align="center">
-  <img src="./screenshots/features.png" alt="FlightFare Features" width="900">
-</p>
-
-### 📊 Prediction Results
-
-<p align="center">
-  <img src="./screenshots/prediction-results.png" alt="Prediction Results" width="900">
-</p>
 ## 🔄 How It Works
 
 ```text
@@ -440,26 +415,6 @@ The project can be extended into a more advanced airfare forecasting platform by
 
 ---
 
-## ⚠️ Limitations
-
-This project is currently intended as a portfolio and demonstration application.
-
-The displayed forecast should **not** be interpreted as a guaranteed future airfare price.
-
-The frontend contains a demonstration prediction layer that can generate sample historical and forecast data when populated prediction values are not returned by the backend.
-
-A production-ready system would require:
-
-* Reliable real-world airfare data
-* A sufficiently large historical dataset
-* Proper feature engineering
-* A trained and validated ML model
-* Continuous data updates
-* Model monitoring
-* Proper prediction evaluation
-
----
-
 ## 🎯 Learning Objectives
 
 This project demonstrates practical experience with:
@@ -487,30 +442,6 @@ B.Tech — Artificial Intelligence & Machine Learning
 
 GitHub:
 https://github.com/Vivek-41-Thakare
-
----
-
-## 📄 License
-
-This project is intended for personal portfolio and educational purposes.
-
----
-
-## ⭐ Project Highlights
-
-* ✈️ Flight fare prediction interface
-* 📊 Price trend visualization
-* 💰 Current and predicted price comparison
-* 🎯 Prediction confidence score
-* 🔎 Flight search workflow
-* 🌙 Modern dark UI
-* 📱 Responsive frontend
-* ⚛️ React + TypeScript
-* 🎨 Tailwind CSS
-* 📈 Recharts visualization
-* 🧠 Prediction/demo data layer
-* 🌐 Internet Computer backend architecture
-* 🔧 Git/GitHub version control
 
 ---
 
