@@ -1,5 +1,4 @@
 # ✈️ FlightFare — Flight Price Predictor
-
 An AI-powered flight fare prediction web application designed to help travelers understand flight price trends and make more informed booking decisions.
 
 The application provides a clean flight-search workflow, price prediction metrics, confidence indicators, and a visual price-trend chart for the selected travel date.
